@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SimpleDeployNet</id>
+    <version>1.0.0</version>
+    <authors>Doug Rathbone</authors>
+    <owners>Doug Rathbone</owners>
+    <projectUrl>https://github.com/dougrathbone/simpledeploynet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple wrapper for the Microsoft WebDeploy API to allow for easy upload, download and remote file listings.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright></copyright>
+    <tags>simpledeploy simpledeploynet msdeploy webdeploy msdeployapi api</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
